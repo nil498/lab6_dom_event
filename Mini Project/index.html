@@ -1,0 +1,49 @@
+
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Pendaftaran Workshop</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Pendaftaran Workshop</h1>
+        <p>Silakan isi formulir di bawah ini.</p>
+
+        <form id="formWorkshop">
+            <label for="nama">Nama Lengkap</label>
+            <input type="text" id="nama" placeholder="Masukkan nama lengkap">
+            <small id="jumlahKarakter">0 karakter</small>
+
+            <label for="email">Email</label>
+            <input type="email" id="email" placeholder="Masukkan email">
+
+            <label for="sesi">Pilih Sesi Workshop</label>
+            <select id="sesi">
+                <option value="">-- Pilih sesi --</option>
+                <option value="HTML dan CSS Dasar">HTML dan CSS Dasar</option>
+                <option value="JavaScript Dasar">JavaScript Dasar</option>
+                <option value="Website Interaktif">Website Interaktif</option>
+            </select>
+
+            <p id="infoSesi"></p>
+            <p id="pesan"></p>
+
+            <button type="submit">Daftar Workshop</button>
+            <button type="reset" id="tombolReset">Reset</button>
+        </form>
+
+        <div id="ringkasan" class="ringkasan" hidden>
+            <h2>Ringkasan Pendaftaran</h2>
+            <p>Nama: <span id="hasilNama"></span></p>
+            <p>Email: <span id="hasilEmail"></span></p>
+            <p>Sesi: <span id="hasilSesi"></span></p>
+        </div>
+    </div>
+
+</body>
+</html>
