@@ -1,6 +1,6 @@
 # PRAKTIKUM 6 — JAVASCRIPT DOM DAN EVENT HANDLING
 
-**Nama:** [Daniel MOhammed]  
+**Nama:** [Daniel Mohammed]  
 **NIM:** [312510466]  
 **Mata Kuliah:** Pemrograman Web  
 **Lab:** Praktikum 6 — JavaScript DOM dan Event Handling
@@ -76,10 +76,11 @@ tombolGaya.addEventListener("click", function () {
 }
 ```
 
-<img width="985" height="389" alt="image" src="https://github.com/user-attachments/assets/319cad2b-ab83-4028-b83f-d2df4cd7b8ed" />
+<img width="552" height="202" alt="image" src="https://github.com/user-attachments/assets/25c28074-95c6-4b7a-abff-3283a831e84b" />
 
-<img width="817" height="295" alt="Screenshot 2026-10-26 153408" src="https://github.com/user-attachments/assets/a4c172de-9a48-46cc-be4f-a3295273802a" />
 
+
+<img width="716" height="371" alt="image" src="https://github.com/user-attachments/assets/8d84aef5-9c55-4448-896a-3cb9bdbc29b4" />
 
 
 ### 3. Penghitung Karakter
@@ -97,8 +98,7 @@ namaInput.addEventListener("input", function () {
 });
 ```
 
-<img width="403" height="87" alt="Screenshot 2026-10-26 153456" src="https://github.com/user-attachments/assets/2c08a3f4-52fa-42df-b16c-0d51244ceaee" />
-
+<img width="468" height="103" alt="image" src="https://github.com/user-attachments/assets/ffcbc525-78ed-44dc-a6b5-1cade7e92ba3" />
 
 
 ### 4. Validasi Form Pendaftaran
@@ -137,10 +137,10 @@ form.addEventListener("submit", function (event) {
 });
 ```
 
-<img width="832" height="67" alt="Screenshot 2026-10-26 153534" src="https://github.com/user-attachments/assets/ea39479d-8392-4d79-a8bb-c0e259171a5f" />
+<img width="1079" height="66" alt="image" src="https://github.com/user-attachments/assets/ff78ca11-be1a-4448-a573-cd7fa695c1e0" />
 
 
-<img width="820" height="75" alt="Screenshot 2026-10-26 153625" src="https://github.com/user-attachments/assets/d1d4ff2d-3c40-4e9c-b4f3-6e1ea5dfbe19" />
+<img width="996" height="110" alt="image" src="https://github.com/user-attachments/assets/1beb653c-0364-4b95-85c2-345f89f7dbec" />
 
 
 ### 5. To-do List
@@ -174,9 +174,10 @@ li {
 }
 ```
 
-<img width="472" height="125" alt="Screenshot 2026-10-26 153722" src="https://github.com/user-attachments/assets/df492b30-df91-4804-ab4a-8ef36d4a7d22" />
+<img width="504" height="243" alt="image" src="https://github.com/user-attachments/assets/c7efd2a3-8115-4ee3-ace8-1e92c6257d0c" />
 
-<img width="576" height="186" alt="Screenshot 2026-10-26 153758" src="https://github.com/user-attachments/assets/a9bc695a-be3e-4b3e-8a5d-74c8cab5b649" />
+<img width="491" height="241" alt="image" src="https://github.com/user-attachments/assets/3fc765d9-3b97-45e3-95f5-d35eca1912fe" />
+
 
 <img width="461" height="142" alt="Screenshot 2026-10-26 153825" src="https://github.com/user-attachments/assets/c5d14d42-a001-4877-bd6f-4f6e8f7bcbf9" />
 
